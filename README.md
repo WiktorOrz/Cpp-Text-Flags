@@ -30,4 +30,4 @@ This tool is a simple project to help operate on text based files. It reads flag
 # Technologies
 This application was created using C++17 and only uses the Standard Template Library.
 
-### This project is shared for educational and demonstration purposes only. Ownership and reuse may be subject to university IP policies.
+### This project is shared for demonstration and portfolio purposes only. Ownership and reuse may be subject to university IP policies.
